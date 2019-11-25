@@ -55,3 +55,6 @@ Lumigo and Espagon.
 
 ## CI / CD
 Must-have for serious projects.
+
+## JSON:API
+The [JSON:API](https://jsonapi.org/) spec is a well though-out (although very opinionated) guide that makes a lot of decisions for you in how you should structure the response, pagination & filtering, linked to different resources, etc. Although I don't necessarily recommend following this guide in the strictest possible sense, I think can be a great inspiration for any backend developer in _one possible_ approach for designing the api at hand.
