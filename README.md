@@ -33,6 +33,10 @@ Core CRUD Routes
 ## DELETE
   - takes an id and deletes the item with that id.
 
+---
+
+## Use Serverless Framework For Unparalled Developer Experience & Deployment Flexibility
+ya, it's pretty nice.
 
 ## Automatic Swagger Generation
 Pretty Dope
