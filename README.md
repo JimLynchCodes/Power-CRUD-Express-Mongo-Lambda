@@ -32,3 +32,22 @@ Core CRUD Routes
 
 ## DELETE
   - takes an id and deletes the item with that id.
+
+
+## Automatic Swagger Generation
+Pretty Dope
+
+## End-To-End Testing With SuperTest
+Nice
+
+## Load Testing
+It's good to do.
+
+## Unit Testing
+If your api has any logic at all, do it.
+
+## Enterprise-Level Monitoring Tools
+Lumigo and Espagon.
+
+## CI / CD
+Must-have for serious projects.
