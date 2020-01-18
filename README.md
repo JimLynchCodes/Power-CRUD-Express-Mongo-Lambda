@@ -36,7 +36,7 @@ If you use a singular name for your resource then it can be confusing for consum
 ---
 
 ## Use Serverless Framework For Unparalled Developer Experience & Deployment Flexibility
-ya, it's pretty nice.
+With the Serverless cli you can scaffold out serverless functions for _any_ cloud provider, _any_ programming language... it's pretty great! The serevrless.yaml file it much more succint and pleasant to deal with than raw AWS SAML. 
 
 ## Automatic Swagger Generation
 Great for learning and understanding and api- automatically generated from the code.
