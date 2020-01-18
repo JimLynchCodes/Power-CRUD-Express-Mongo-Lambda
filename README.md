@@ -18,7 +18,7 @@ GET  /orders/123    -> gets the order with id of 123
 If you use a singular name for your resource then it can be confusing for consumers of your api. "Does /order return one order and /orders return all orders? Is everything just /order? Why does /order return the entire list of orders?" These are all questions consumers of your api will be wondering if you use singularly named routes, whereas if you use plural routes no one will ask you anything about your api because they are not super confused.
 
 
-Core CRUD Routes
+## Core CRUD Routes
 
 ## GET
   - takes an id and returns the item with that id.
@@ -39,22 +39,22 @@ Core CRUD Routes
 ya, it's pretty nice.
 
 ## Automatic Swagger Generation
-Pretty Dope
+Great for learning and understanding and api- automatically generated from the code.
 
 ## End-To-End Testing With SuperTest
-Nice
+Gives you confidence you endpoints work every time you deploy!
 
 ## Load Testing
-It's good to do.
+It's good to do although with serverless kind of unnecessary.
 
 ## Unit Testing
-If your api has any logic at all, do it.
+If your api has any logic at all, you should test it.
 
 ## Enterprise-Level Monitoring Tools
 Lumigo and Espagon.
 
 ## CI / CD
-Must-have for serious projects.
+Helps large projects move wuickly and accurately.
 
 ## JSON:API
 The [JSON:API](https://jsonapi.org/) spec is a well though-out (although very opinionated) guide that makes a lot of decisions for you in how you should structure the response, pagination & filtering, linked to different resources, etc. Although I don't necessarily recommend following this guide in the strictest possible sense, I think can be a great inspiration for any backend developer in _one possible_ approach for designing the api at hand.
